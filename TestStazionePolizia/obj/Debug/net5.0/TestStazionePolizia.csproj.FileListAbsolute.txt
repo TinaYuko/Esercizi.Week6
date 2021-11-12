@@ -1,0 +1,44 @@
+C:\Users\Marti\source\repos\TestStazionePolizia\bin\Debug\net5.0\TestStazionePolizia.exe
+C:\Users\Marti\source\repos\TestStazionePolizia\bin\Debug\net5.0\TestStazionePolizia.deps.json
+C:\Users\Marti\source\repos\TestStazionePolizia\bin\Debug\net5.0\TestStazionePolizia.runtimeconfig.json
+C:\Users\Marti\source\repos\TestStazionePolizia\bin\Debug\net5.0\TestStazionePolizia.runtimeconfig.dev.json
+C:\Users\Marti\source\repos\TestStazionePolizia\bin\Debug\net5.0\TestStazionePolizia.dll
+C:\Users\Marti\source\repos\TestStazionePolizia\bin\Debug\net5.0\ref\TestStazionePolizia.dll
+C:\Users\Marti\source\repos\TestStazionePolizia\bin\Debug\net5.0\TestStazionePolizia.pdb
+C:\Users\Marti\source\repos\TestStazionePolizia\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Marti\source\repos\TestStazionePolizia\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Marti\source\repos\TestStazionePolizia\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Marti\source\repos\TestStazionePolizia\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Marti\source\repos\TestStazionePolizia\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marti\source\repos\TestStazionePolizia\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marti\source\repos\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.csproj.AssemblyReference.cache
+C:\Users\Marti\source\repos\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\source\repos\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.AssemblyInfoInputs.cache
+C:\Users\Marti\source\repos\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.AssemblyInfo.cs
+C:\Users\Marti\source\repos\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.csproj.CoreCompileInputs.cache
+C:\Users\Marti\source\repos\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.dll
+C:\Users\Marti\source\repos\TestStazionePolizia\obj\Debug\net5.0\ref\TestStazionePolizia.dll
+C:\Users\Marti\source\repos\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.pdb
+C:\Users\Marti\source\repos\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.genruntimeconfig.cache
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\bin\Debug\net5.0\TestStazionePolizia.exe
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\bin\Debug\net5.0\TestStazionePolizia.deps.json
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\bin\Debug\net5.0\TestStazionePolizia.runtimeconfig.json
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\bin\Debug\net5.0\TestStazionePolizia.runtimeconfig.dev.json
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\bin\Debug\net5.0\TestStazionePolizia.dll
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\bin\Debug\net5.0\ref\TestStazionePolizia.dll
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\bin\Debug\net5.0\TestStazionePolizia.pdb
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.csproj.AssemblyReference.cache
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.AssemblyInfoInputs.cache
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.AssemblyInfo.cs
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.dll
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\obj\Debug\net5.0\ref\TestStazionePolizia.dll
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.pdb
+C:\Users\Marti\Desktop\Pink Academy\Week6\TestStazionePolizia\obj\Debug\net5.0\TestStazionePolizia.genruntimeconfig.cache
